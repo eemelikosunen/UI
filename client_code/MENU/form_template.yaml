@@ -8,7 +8,7 @@ components:
 - name: rich_text_1
   properties: {background: 'theme:a', content: 'Connect to board:'}
   type: RichText
-  layout_properties: {grid_position: 'CIUQNA,KEJFDE'}
+  layout_properties: {grid_position: 'CIUQNA,KEJFDE', full_width_row: true}
   data_bindings: []
 - properties: {spacing_above: medium, visible: true, spacing_below: large, background: 'theme:c'}
   type: GridPanel
