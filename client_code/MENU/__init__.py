@@ -1,6 +1,7 @@
 from ._anvil_designer import MENUTemplate
 from anvil import *
 
+
 class MENU(MENUTemplate):
   def __init__(self, **properties):
     # Set Form properties and Data Bindings.
@@ -37,7 +38,6 @@ class MENU(MENUTemplate):
     alert("You clicked the Log Out button")
     pass
 
+
   def button_1_click(self, **event_args):
-    """This method is called when the button is clicked"""
-    alert("You clicked the Select screen button")
-    pass
+    alert("You clicked the Connect to screen button")

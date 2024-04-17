@@ -1,0 +1,8 @@
+container:
+  type: HtmlTemplate
+  properties: {html: "<div style=\"width: 300px; height: 200px; border: 1px solid\
+      \ #ccc; padding: 20px;\">\n  <center style=\"font-style:italic; color:#888;\"\
+      >\n    (Insert your custom HTML here)\n  </center>\n</div>\n<div anvil-slot=\"\
+      default\"></div>"}
+components: []
+is_package: true
