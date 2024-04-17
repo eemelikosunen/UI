@@ -11,7 +11,7 @@ components:
   name: grid_panel_1
   components:
   - properties: {text: MIRROR SCREEN, icon: 'fa:image', font_size: 40, icon_align: top,
-      align: full, bold: true}
+      align: full, bold: true, background: ''}
     type: Button
     layout_properties: {row: FKZMFQ, width_xs: 5, col_xs: 1}
     event_bindings: {click: button_mirror_screen_click}
