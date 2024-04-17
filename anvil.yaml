@@ -1,7 +1,8 @@
 allow_embedding: false
 package_name: Custom_HTML_1
+startup: {type: form, module: MENU}
 name: Custom HTML 1
-startup_form: Form1
+startup_form: null
 native_deps: null
 runtime_options:
   version: 3
