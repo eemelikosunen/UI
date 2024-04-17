@@ -15,7 +15,7 @@ components:
     data_bindings: []
     event_bindings: {click: button_mirror_screen_click}
   - name: button_draw
-    properties: {text: DRAW, icon: 'fa:pencil', icon_align: top, font: '', font_size: 40,
+    properties: {text: HANNU HÖÖ, icon: 'fa:pencil', icon_align: top, font: '', font_size: 40,
       bold: true, align: full}
     type: Button
     layout_properties: {row: FKZMFQ, width_xs: 5, col_xs: 6}
