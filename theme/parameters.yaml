@@ -1,5 +1,9 @@
 roles: []
 color_scheme:
   colors:
-  - {name: '', color: '#000000'}
+  - {name: a, color: '#B8D8D8'}
+  - {name: b, color: '#7A9E9F'}
+  - {name: c, color: '#4F6367'}
+  - {name: d, color: '#EEF5D8'}
+  - {name: e, color: '#FE5F55'}
   preset_groups: []
