@@ -26,23 +26,23 @@ components:
       italic: false, bold: true, underline: false, icon: 'fa:file'}
     type: Button
     layout_properties: {row: XDXSNQ, width_xs: 5, col_xs: 1}
-    name: button_open_file
     event_bindings: {click: button_open_file_click}
+    name: button_open_file
   - properties: {text: FAVOURITE, bold: true, visible: true, icon: 'fa:star', icon_align: top,
       font_size: 40, align: full}
     type: Button
     layout_properties: {row: XDXSNQ, width_xs: 5, col_xs: 6}
-    name: button_favourite
     event_bindings: {click: button_favourite_click}
+    name: button_favourite
   - properties: {text: SETTINGS, align: full, icon: 'fa:certificate', icon_align: top,
       bold: true, font_size: 40}
     type: Button
     layout_properties: {row: WURGYZ, width_xs: 5, col_xs: 1}
-    name: button_settings
     event_bindings: {click: button_settings_click}
+    name: button_settings
   - properties: {text: LOG OUT, icon: 'fa:arrow-circle-left', icon_align: top, bold: true,
       font_size: 40, align: full, visible: true}
     type: Button
     layout_properties: {row: WURGYZ, width_xs: 5, col_xs: 6}
-    name: button_log_out
     event_bindings: {click: button_log_out_click}
+    name: button_log_out

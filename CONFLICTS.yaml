@@ -1,0 +1,11 @@
+merge:
+  parents: [e2d2f67ad2c794540e6a00395252c05e20a51c0c, bd0c01bb847781ef317bb40c31a5eae9f8a5793a]
+  base: e5e20f6eb85b0be3b664870debf65231a1b32eef
+conflicting_items:
+- text_chunks:
+  - start: 26
+    alternatives:
+    - {s: A, l: 26, n: 11}
+    - {s: B, l: 37, n: 1}
+  item: [client_code, MENU]
+  app_path: [CODE, forms/MENU]

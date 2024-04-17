@@ -35,4 +35,5 @@ class MENU(MENUTemplate):
   def button_log_out_click(self, **event_args):
     """This method is called when the button is clicked"""
     alert("You clicked the Log Out button")
+    alert("You clicked the fw button")
     pass
