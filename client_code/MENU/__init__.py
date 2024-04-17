@@ -36,3 +36,8 @@ class MENU(MENUTemplate):
     """This method is called when the button is clicked"""
     alert("You clicked the Log Out button")
     pass
+
+  def button_1_click(self, **event_args):
+    """This method is called when the button is clicked"""
+    alert("You clicked the Select screen button")
+    pass
