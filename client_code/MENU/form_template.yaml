@@ -3,7 +3,7 @@ slots: {}
 custom_component: true
 container:
   type: ColumnPanel
-  properties: {wrap_on: mobile, background: '#f4ebeb', foreground: ''}
+  properties: {wrap_on: mobile, background: 'theme:c', foreground: ''}
 components:
 - properties: {spacing_above: medium, visible: true, spacing_below: large, background: 'theme:c'}
   type: GridPanel
