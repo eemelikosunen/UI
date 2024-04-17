@@ -1,6 +1,9 @@
 roles: []
 color_scheme:
   colors:
-  - {name: '', color: '#B8D8D8'}
-  - {name: '', color: '#000000'}
+  - {name: Sky blue, color: '#5DADE2'}
+  - {name: Emerald, color: '#000000'}
+  - {name: Sunflower, color: '#000000'}
+  - {name: Silver white, color: '#000000'}
+  - {name: Charcoal, color: '#000000'}
   preset_groups: []
