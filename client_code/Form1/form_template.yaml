@@ -27,7 +27,7 @@ components:
     type: Button
     layout_properties: {row: XDXSNQ, width_xs: 5, col_xs: 1}
     name: button_4
-  - properties: {text: QUICK ACCESS, bold: true, visible: true, icon: 'fa:star', icon_align: top,
+  - properties: {text: FAVOURITE, bold: true, visible: true, icon: 'fa:star', icon_align: top,
       font_size: 40, align: full}
     type: Button
     layout_properties: {row: XDXSNQ, width_xs: 5, col_xs: 6}
