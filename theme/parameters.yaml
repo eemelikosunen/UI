@@ -1,5 +1,5 @@
 roles: []
 color_scheme:
   colors:
-  - {name: '', color: '#000000'}
+  - {name: Button, color: '#000000'}
   preset_groups: []
