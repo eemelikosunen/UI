@@ -10,9 +10,19 @@ class MENU(MENUTemplate):
 
   def button_draw_click(self, **event_args):
     """This method is called when the button is clicked"""
-    alert("You clicked the  Draw button")
+    alert("You clicked the Draw button")
     pass
 
   def button_mirror_screen_click(self, **event_args):
     """This method is called when the button is clicked"""
     alert("You clicked the Mirror Screen button")
+
+  def button_open_file_click(self, **event_args):
+    """This method is called when the button is clicked"""
+    alert("You clicked the Open file button")
+    pass
+
+  def button_favourite_click(self, **event_args):
+    """This method is called when the button is clicked"""
+    alert("You clicked the fw button")
+    pass
