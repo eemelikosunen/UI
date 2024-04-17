@@ -5,7 +5,7 @@ container:
   type: ColumnPanel
   properties: {wrap_on: mobile, background: 'theme:c', foreground: ''}
 components:
-- properties: {text: button_1, background: 'theme:a'}
+- properties: {text: 'Connect to screen:', background: 'theme:a', font: '20', font_size: 20}
   type: Button
   layout_properties: {grid_position: 'SAZJMB,BPNVIH'}
   name: button_1
